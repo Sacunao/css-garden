@@ -1,0 +1,142 @@
+body{
+	background-image: url(fondo.jpg);
+}
+header{
+	width: 100%;
+	margin: 0 auto;
+	font-size: 40px;
+	color: white;
+	font-family: sans-serif;
+	background-color: rgba(7,5,0,0.50);
+	padding: 20px;
+}
+.summary {
+	font-size: 20px;
+	padding:30px;
+	background-color: rgba(60,40,20,0.60);
+	width: 70%;
+	float: center;
+	color: white;
+	font-family: cursive;
+	border-radius: 5%;
+	float: left;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+a:hover { 
+    background-color: #F9A91A;
+}
+aside{
+	font-size: 20px;
+	padding:30px;
+	background-color: rgba(54,58,59,0.70);
+	width: 20%;
+	height: 100%
+	color: white;
+	font-family: cursive;
+	margin-top: 20px;
+	border-radius: 5%;
+	position: absolute;
+	right: 0;
+	top: 40%;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+
+}
+.preamble{
+	font-size: 20px;
+	padding:30px;
+	background-color: rgba(54,58,59,0.60);
+	width: 60%;
+	color: white;
+	font-family: cursive;
+	border-radius: 5%;
+	float: left;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+}
+.explanation{
+	font-size: 20px;
+	padding:30px;
+	background-color: rgba(60,40,20,0.60);
+	width: 30%;
+	color: white;
+	float: left;
+	font-family: cursive;
+	border-radius: 5%;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+}
+.participation{
+	font-size: 20px;
+	padding:30px;
+	background-color: rgba(54,58,59,0.60);
+	width: 80%;
+	color: white;
+	font-family: cursive;
+	border-radius: 5%;
+	float: left;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+ } 	
+.benefits{
+	font-size: 20px;
+	padding:30px;
+	background-color: rgba(60,40,20,0.60);
+	width: 50%;
+	color: white;
+	font-family: cursive;
+	border-radius: 5%;
+	float: left;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+}
+.requirement{
+	font-size: 20px;
+	padding:30px;
+	background-color: rgba(60,40,20,0.60);
+	width: 70%;
+	color: white;
+	font-family: cursive;
+	border-radius: 5%;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+}
+.main{
+	width: 75%;
+}
+.main div{
+	float:left;
+	width: 49.9%;
+}
+footer{
+	font-size: 20px;
+	padding:30px;
+	background-color: rgba(60,40,20,0.60);
+	width: 70%;
+	color: white;
+	font-family: cursive;
+	border-radius: 5%;
+	margin-top: 0.5%;
+  	margin-bottom: 0.5%;
+  	margin-left: 0.5%;
+  	margin-right: 0.5%;
+}
